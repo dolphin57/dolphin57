@@ -1,20 +1,20 @@
 
-### Hey 👋, I'm [Hritik Jaiswal]() 👨‍💻
+### Hey 👋, I'm [Dolphin]() 👨‍💻
 
 
 
-:smiley: Technical member of **[Team KJSCE Robocon](https://kjscerobocon.tech/)** 
+:smiley: 我是Java开发者Dolphin 
 
-👨‍🎓 B.Tech in information technology from the **[K.J Somaiya college of engineering](https://kjsce.somaiya.edu/en)** 
+👨‍🎓 热爱编程，希望与大家探讨 
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision | Matlab simulation   
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
-- :e-mail: Ask me about anything ; **[hritik.jaiswal@somaiya.edu](hritik.jaiswal@somaiya.edu)**
+- :dart: Java development | Love programming
+- :heart: Open source contributor
+- :writing_hand: Writing blogs on  **[Dolphin57](https://ericql.github.io/)** 
+- :e-mail: Ask me about anything 
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=hritik5102&show_icons=true&hide_border=true)
+![Dolphin57's github stats](https://github-readme-stats.vercel.app/api?username=dolphin57&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 
