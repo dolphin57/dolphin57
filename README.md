@@ -18,7 +18,7 @@
 
 ### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/dolphin57)](https://github.com/dolphin57) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dolphin57)](https://github.com/dolphin57)[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dolphin57)](https://github.com/dolphin57)  
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/dolphin57)](https://github.com/dolphin57) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dolphin57)](https://github.com/dolphin57)  [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dolphin57)](https://github.com/dolphin57)  
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/dolphin57)](https://github.com/dolphin57) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/dolphin57)](https://github.com/dolphin57) 
 
